@@ -1,2 +1,2 @@
-# Personal-Profile-Page
+# Techdegree Project 1
  Techdegree First Project
