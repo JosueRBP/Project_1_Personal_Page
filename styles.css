@@ -101,6 +101,13 @@
   .card:hover {
     border-bottom: 4px solid lightseagreen;
   }
+.card-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  width: 100%;
+}
   h3 
   {
     text-align: center;
